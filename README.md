@@ -16,3 +16,6 @@ Scripts that I use on a local machine
 
 **rCloneLogoffUnmount.sh**
 *unmount google drive and disable onedrive service.
+
+**CPU_Temperature_Monitor.py**
+*Monitors CPU Temperature and attempt shutdown when prolonged overheating.
