@@ -1,5 +1,5 @@
 # myScripts
-Scripts that I use on a local machine
+Scripts that I use on my local machine
 
 **Prerequisite:**
 *Setup a google drive and onedrive profile using rclone.
